@@ -1,8 +1,10 @@
 # Background Color Changer (React)
 
 A simple and interactive React application that allows users to change the background color by clicking on different color buttons. This project demonstrates the use of React Hooks and dynamic styling.
+
 ---
 ## 🌐 Live Demo
+
 ---
 ## 🚀 Features
 
@@ -53,6 +55,7 @@ src/
 
 Click any color button to change the background.
 The selected color code will be displayed on the screen.
+
 ---
 ## ✨ Future Improvements
 
@@ -66,9 +69,11 @@ The selected color code will be displayed on the screen.
 Sakshi Shelke
 
 GitHub: https://github.com/Sakshi-1011
+
 ---
 ## 🤝 Contributions
 
 Pull requests, issues, and suggestions are welcome!  
 Feel free to fork the repo and improve it.
+
 ---

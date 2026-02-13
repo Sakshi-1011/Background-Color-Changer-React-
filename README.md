@@ -22,6 +22,15 @@ A simple and interactive React application that allows users to change the backg
 * Vite / Create React App (depending on setup)
 
 ## 📷 Screenshot
+## Desktop View
+<img src="desktop.png" width="800"/>
+
+## Tablet View
+<img src="Tab(1024px).png" width="600"/>
+
+## Mobile View
+<img src="Mobile.png" width="300"/>
+
 
 
 ## 🧠 Concepts Covered
